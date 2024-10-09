@@ -8,7 +8,7 @@
 - **laptop/pc yang sehat**
 - **kabel usb**
 - **file firmware redmi 10A [download disini](https://xmfirmwareupdater.com/miui/dandelion/stable%20beta/V12.5.5.0.RCZIDXM/)**
-- **file NV redmi 10A [download disini](https://youtube.com/@AxxeScript)**
+- **file NV redmi 10A [download disini](https://github.com/axxescript/nv-data-is-corrupted-redmi-10a-fix/releases/tag/by_axxescript)**
 - **driver mtk dan libusb filter**
 - **SP flash tool [download disini](https://spflashtools.com/) atau TFT MTK MODULE [download disini](https://bestflashfile.com/tft-mtk-module-tool/)**
  
