@@ -59,7 +59,7 @@
 
 ### PENUTUP
 
-> _Trimakasih sudah membaca jangan lupa starnya hehe :+1:. Jika ada kesalahan pada penjelasan dan tutorial dari saya mohon berikan komentar di [Issue]()._
+> _Trimakasih sudah membaca jangan lupa starnya hehe :+1:. Jika ada kesalahan pada penjelasan dan tutorial dari saya mohon berikan komentar di [Issue](https://github.com/axxescript/nv-data-is-corrupted-redmi-10a-fix/issues/1)._
 
 
 ## License
