@@ -1,7 +1,7 @@
 ## CARA MENGATASI NV DATA CORRUPTED REDMI 10A
 #### PENJELASAN SINGKAT
 > [!IMPORTANT]
-  NV data is corrupted ini sering terjadi di hp mediatek yang sudah di oprek, dikarenakan **_Scurrity image_** error atau **_IMEI hilang_**. Dan biasanya terjadi karena menggunakan custom rom dan setelah melakukan flash firmware di tools seperti SP flash tool, **_lah apa salahnya??_** mungkin flash data systemnya error dan lupa format data saat mengganti rom. Lalu bagaimana cara memperbaiki masalah NV data is corrupted?
+  _NV data is corrupted ini sering terjadi di hp mediatek yang sudah di oprek, dikarenakan **_Scurrity image_** error atau **_IMEI hilang_**. Dan biasanya terjadi karena menggunakan custom rom dan setelah melakukan flash firmware di tools seperti SP flash tool, **_lah apa salahnya??_** mungkin flash data systemnya error dan lupa format data saat mengganti rom. Lalu bagaimana cara memperbaiki masalah NV data is corrupted?_
 
 ## SEBELUM EKSEKUSI PERSIAPKAN:
 - **nyali**
@@ -10,7 +10,7 @@
 - **file firmware redmi 10A [download disini](https://xmfirmwareupdater.com/miui/dandelion/stable%20beta/V12.5.5.0.RCZIDXM/)**
 - **file NV redmi 10A [download disini](https://youtube.com/@AxxeScript)**
 - **driver mtk dan libusb filter**
-- **SP flash tool [download disini]() atau TFT MTK MODULE [download disini]()**
+- **SP flash tool [download disini](https://spflashtools.com/) atau TFT MTK MODULE [download disini](https://bestflashfile.com/tft-mtk-module-tool/)**
  
 ## CARA PERTAMA 
 ###### Memasang ulang super.img di mode fastboot
