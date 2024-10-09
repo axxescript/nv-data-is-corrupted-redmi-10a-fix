@@ -62,7 +62,7 @@
 > TRIMAKASI SUDAH MEMBACA JANGAN LUPA STARNYA HEHE :+1:. JIKA ADA KESALAHAN PADA PENJELASAN DAN TUTORIAL DARI SAYA MOHON BERIKAN KOMENTAR DI [issue]()
 
 
-## LICENCE
+License
 SFPS, including all git submodules are free software:
 you can redistribute it and/or modify it under the terms of the
 GNU General Public License as published by the Free Software Foundation,
